@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Developer
-- 🌱 Learning Programing Fullstack and looking to Collaborate on Projects
+- 🌱 Long-term goal: to be Fullstack and looking to Collaborate on Projects Socials
 - 💬 Ask me about the life, dog and codes __🐶💻
 - 📫 How to reach me: assis.phn@gmail.com
 - ⚡ Fun fact: sometimes I love pastel more than codes __🥟💻
