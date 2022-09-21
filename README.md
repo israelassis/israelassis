@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelassis" alt="Israel Assis" /> </p>
   
+ <br>
   
   ![Snake animation](https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg)
   
