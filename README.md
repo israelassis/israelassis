@@ -8,13 +8,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Developer
-- 🌱 I’m currently learning Programing Fullstack
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Projects
+- 🌱 Learning Programing Fullstack and looking to Collaborate on Projects
 - 💬 Ask me about the life, dog and codes __🐶💻
 - 📫 How to reach me: assis.phn@gmail.com
 - ⚡ Fun fact: sometimes I love pastel more than codes __🥟💻
-
 
 <br>
 
