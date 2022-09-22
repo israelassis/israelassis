@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 ## Contact
 
-
 <a href="https://linkedin.com/in/israelassis" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-israelassis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>&nbsp;
