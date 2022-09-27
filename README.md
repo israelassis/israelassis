@@ -3,15 +3,15 @@
 <div display="inline-block">
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="500px" /> 
  <h1 align="center" style="margin-left: 20px">Hi, I'm Israel 👋 </h1>
- <h3 align="center"> 💻 I'm a web developer </h3>
+ 
 </div>
 
 <!--
 **israelassis/israelassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-⚡ Fun fact: sometimes I love pastel more than codes __🥟💻
+  `I'm a:` Web Developer <br>
+  `Fun fact:` sometimes I love pastel more than codes &nbsp;🥟&nbsp;💻
 
 <br>
 
