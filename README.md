@@ -1,17 +1,17 @@
+<div display="inline-block" align="center">
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,&nbsp; I'm Israel Assis</h1>
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="400px" />
+<div display="inline-block">
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="500px" /> 
+ <h1 align="center" style="margin-left: 20px">Hi, I'm Israel 👋 </h1>
+ <h3 align="center"> 💻 I'm a web developer </h3>
+</div>
+
 <!--
 **israelassis/israelassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend Developer
-- 🌱 Long-term goal: to be Fullstack and looking to Collaborate on Projects Socials
-- 💬 Ask me about the life, dog and codes __🐶💻
-- 📫 How to reach me: assis.phn@gmail.com
-- ⚡ Fun fact: sometimes I love pastel more than codes __🥟💻
+⚡ Fun fact: sometimes I love pastel more than codes __🥟💻
 
 <br>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+</div>
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://img.shields.io/badge/-assis.phn-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
 
+<br><br>
   
 ![Snake animation](https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg)
   
