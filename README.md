@@ -1,8 +1,10 @@
-<div display="inline-block" align="center">
+<div display="inline-block" align="left">
+
 
 <div display="inline-block">
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="500px" /> 
- <h1 align="center" style="margin-left: 20px">Hi, I'm Israel 👋 </h1>
+<h1 align="center" style="margin-left: 20px"> Hi, I'm Israel 👋 </h1>
+
  
 </div>
 
