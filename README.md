@@ -12,8 +12,8 @@
 **israelassis/israelassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-  `I'm a:` Web Developer <br>
-  `Fun fact:` sometimes I love pastel more than codes &nbsp;🥟&nbsp;💻
+  `I'm a:` &nbsp;Web Developer <br>
+  `Fun fact:` &nbsp;Sometimes I love pastel more than codes &nbsp;🥟&nbsp;💻
 
 <br>
 
