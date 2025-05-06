@@ -13,7 +13,7 @@
 -->
 
   `I'm a:` &nbsp;Web Developer <br>
-  `Fun fact:` &nbsp;Sometimes I love pastel more than codes &nbsp;🥟&nbsp;💻
+  `Fun fact:` &nbsp;Professional with over 7 years of experience in logistics, demonstrating a consistent trajectory in process optimization, leadership and project management. Seeks transition to the Programming area, bringing analytical skills, a continuous improvement mindset (Kaizen) and adaptability. Has knowledge in HTML and Data Analysis, with a focus on developing efficient and high-quality software solutions. Shows resilience and a strong desire to learn in a challenging environment. &nbsp;🥟&nbsp;💻
 
 <br>
 
