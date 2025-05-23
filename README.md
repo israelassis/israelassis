@@ -13,7 +13,9 @@
 -->
 
   `I'm a:` &nbsp;Web Developer <br>
-  `Fun fact:` &nbsp;Professional with over 7 years of experience in logistics, demonstrating a consistent trajectory in process optimization, leadership and project management. Seeks transition to the Programming area, bringing analytical skills, a continuous improvement mindset (Kaizen) and adaptability. Has knowledge in HTML and Data Analysis, with a focus on developing efficient and high-quality software solutions. Shows resilience and a strong desire to learn in a challenging environment. &nbsp;🥟&nbsp;💻
+  `Fun fact:` &nbsp;A professional with over seven years of experience in the logistics sector, consistently delivering significant results in process optimization (e.g., Kaizen implementation leading to a 90% reduction in damages) and team management. My background in Production Management has equipped me with strong analytical skills and a continuous improvement mindset, which are valuable attributes for a Junior Developer. I have practical experience in dynamic environments utilizing agile methodologies, including daily stand-up meetings (Scrum) and visual workflow management (Kanban), demonstrating adaptability and organizational skills.
+
+Currently, I'm transitioning my career and am fully dedicated to the world of technology as a Front-end Developer. I possess a solid foundation in HTML5, CSS3, JavaScript, along with data analysis skills that contribute to creating impactful and efficient web solutions. My resilience, strong interest in learning, and eagerness for challenges motivate me to proactively contribute to organizational objectives, integrating my management skills and process-oriented vision with a passion for building user-centered interfaces. &nbsp;🥟&nbsp;💻
 
 <br>
 
