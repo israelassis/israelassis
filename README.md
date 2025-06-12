@@ -2,7 +2,6 @@
 
 
 <div display="inline-block">
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625099472777.png" width="500px" /> 
 <h1 align="center" style="margin-left: 20px"> Hi, I'm Israel 👋 </h1>
 
  
@@ -13,9 +12,9 @@
 -->
 
   `I'm a:` &nbsp;Web Developer <br>
-  `Fun fact:` &nbsp;Sempre curti otimizar e transformar desafios em vitórias — foram 7 anos na logística, onde até consegui reduzir 90% das avarias! Agora, essa mesma paixão por melhoria contínua e uma mente analítica me trouxeram para o universo do Desenvolvimento Front-end.
+  `Fun fact:` &nbsp;I've always loved optimizing and turning challenges into wins — that was my focus for 7 years in logistics, where I even managed to reduce damages by 90%! Now, that same passion for continuous improvement and an analytical mindset have brought me into the world of Front-end Development.
 
-Tô mergulhando de cabeça em HTML5, CSS3 e JavaScript, com o foco em criar soluções web responsivas, eficientes e que realmente façam a diferença para o usuário. Sei que tô começando no dev, mas minha dedicação é enorme e minha resiliência, inabalável. Bora construir interfaces incríveis e elevar a experiência digital de todo mundo! &nbsp;🥟&nbsp;💻
+I'm diving headfirst into HTML5, CSS3, and JavaScript, aiming to create responsive, efficient web solutions that truly make a difference for the user. I know I'm just starting out in dev, but my dedication is huge and my resilience, unshakeable. Let's build incredible interfaces and elevate everyone's digital experience! &nbsp;🥟&nbsp;💻
 
 <br>
 
