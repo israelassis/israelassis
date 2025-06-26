@@ -1,16 +1,26 @@
-<h1 align="center">Olá, sou o Israel 👋</h1>
+<div align="center">
 
-<p align="center">
-Desenvolvedor Web | Apaixonado por desafios | Aprendizado Contínuo
-</p>
+  <h1>Olá, sou o Israel 👋</h1>
 
----
+  <img width="300em" border-radius="50%" src="https://github.com/user-attachments/assets/a2a8dc80-03c5-4597-9098-ff52d42e90a3" alt="Banner" />
+
+   <p>Desenvolvedor Web | Apaixonado por desafios | Aprendizado Contínuo</p>
+
+</div>
+&nbsp
+&nbsp
+
 
 🎯 **Sobre mim**
 
 Sou um Aspirante Desenvolvedor Web com experiência prévia de +7 anos em logística — um período em que assumi responsabilidades estratégicas e reduzi perdas operacionais em até 90%. Essa vivência aguçou minha capacidade analítica e minha busca constante por soluções eficientes. Hoje, direciono essa mesma paixão pela melhoria contínua para o desenvolvimento Front-end.
 
 Atualmente, estou focado em fortalecer minhas habilidades em **HTML5**, **CSS3** e **JavaScript**, com projetos que priorizam desempenho, acessibilidade e experiência do usuário. Estou comprometido com a evolução constante e acredito que o trabalho em equipe, aliado a uma comunicação clara, é a chave para criar produtos incríveis.
+
+
+📈&nbsp;`Minha Filosofia` => Aprimoramento e Avanço!
+
+Acredito, e tenho comprovado nas pontas dos dedos, que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu github reflete!
 
 ---
 
