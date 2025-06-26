@@ -6,19 +6,23 @@
 
    <p>Desenvolvedor Web | Apaixonado por desafios | Aprendizado Contínuo</p>
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 </div>
 &nbsp
 &nbsp
 
 
-🎯 **Sobre mim**
+💻 **Sobre mim**
 
 Sou um Aspirante Desenvolvedor Web com experiência prévia de +7 anos em logística — um período em que assumi responsabilidades estratégicas e reduzi perdas operacionais em até 90%. Essa vivência aguçou minha capacidade analítica e minha busca constante por soluções eficientes. Hoje, direciono essa mesma paixão pela melhoria contínua para o desenvolvimento Front-end.
 
 Atualmente, estou focado em fortalecer minhas habilidades em **HTML5**, **CSS3** e **JavaScript**, com projetos que priorizam desempenho, acessibilidade e experiência do usuário. Estou comprometido com a evolução constante e acredito que o trabalho em equipe, aliado a uma comunicação clara, é a chave para criar produtos incríveis.
 
 
-📈&nbsp;`Minha Filosofia` => Aprimoramento e Avanço!
+🎯&nbsp;`Minha Filosofia` => Aprimoramento e Avanço!
 
 Acredito, e tenho comprovado nas pontas dos dedos, que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu github reflete!
 
@@ -87,9 +91,6 @@ Estimular a criatividade e a experimentação
 <a href="mailto:assis.phn@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="E-mail"/>
 </a>&nbsp;
-<a href="https://instagram.com/assis.rael" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"/>
-</a>
 
 ---
 
