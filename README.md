@@ -16,7 +16,7 @@ Atualmente, estou focado em fortalecer minhas habilidades em **HTML5**, **CSS3**
 
 📁 **Organização do Repositório**
 
-Meu GitHub está organizado em **três áreas principais**, refletindo meu foco em aprendizado contínuo, evolução técnica e curiosidade sobre tendências do mercado:
+Meu GitHub está organizado em **03 ÁREAS PRINCIPAIS**, refletindo meu foco em aprendizado contínuo, evolução técnica e curiosidade sobre tendências do mercado:
 
 1. 🔧 Projetos Avançados => 
 Desenvolvimento de interfaces complexas e interativas, com foco em:
