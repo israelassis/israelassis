@@ -2,7 +2,7 @@
 
   <h1>Olá, sou o Israel 👋</h1>
 
-  <img width="300em" border-radius="50%" src="https://github.com/user-attachments/assets/a2a8dc80-03c5-4597-9098-ff52d42e90a3" alt="Banner" />
+  <img width="150em" border-radius="50%" src="https://github.com/user-attachments/assets/a2a8dc80-03c5-4597-9098-ff52d42e90a3" alt="Banner" />
 
    <p>Desenvolvedor Web | Apaixonado por desafios | Aprendizado Contínuo</p>
 
