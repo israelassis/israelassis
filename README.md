@@ -38,13 +38,13 @@ Acredito, e tenho comprovado nas pontas dos dedos, que a verdadeira maestria vem
 Meu GitHub está organizado em **04 ÁREAS** [1 Base e 3 Principais], refletindo meu foco em aprendizado contínuo, evolução técnica e curiosidade sobre tendências do mercado:
 
 00. 🔧 Projetos Base => 
-Desenvolvimento em HTML, CSS e Javascrip de código bruto e básicos e com foco em:
+Desenvolvimento em HTML, CSS, Javascript e Python com foco em:
 
 Base de aprendizado e absorção de conhecimento. Mesclando teoria com prática
 
 Otimização de desempenho
 
-Experiência como desenvolvedor iniciante
+Código bruto e básicos para fins de aprendizado
 
 Boas práticas de desenvolvimento
 
