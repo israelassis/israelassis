@@ -2,97 +2,93 @@
 
   <h1>Olá, sou o Israel 👋</h1>
 
-  <img width="150em" border-radius="50%" src="https://github.com/user-attachments/assets/a2a8dc80-03c5-4597-9098-ff52d42e90a3" alt="Banner" />
 
-   <p>Desenvolvedor Web | Apaixonado por desafios | Aprendizado Contínuo</p>
+  <p>Desenvolvedor | Futuro Analista | Aprendizado Contínuo</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=green)
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 </div>
 &nbsp
 &nbsp
 
 
-💻 **Sobre mim**
+---
+### 💻 Sobre mim
 
 Sou um Aspirante Desenvolvedor Web com experiência prévia de +7 anos em logística — um período em que assumi responsabilidades estratégicas e reduzi perdas operacionais em até 90%. Essa vivência aguçou minha capacidade analítica e minha busca constante por soluções eficientes. Hoje, direciono essa mesma paixão pela melhoria contínua para o desenvolvimento Front-end.
 
 Atualmente, estou focado em fortalecer minhas habilidades em **HTML5**, **CSS3** e **JavaScript**, com projetos que priorizam desempenho, acessibilidade e experiência do usuário. Estou comprometido com a evolução constante e acredito que o trabalho em equipe, aliado a uma comunicação clara, é a chave para criar produtos incríveis.
 
+---
 
-🎯&nbsp;`Minha Filosofia` => Aprimoramento e Avanço!
+### 🎯 Filosofia
 
-Acredito, e tenho comprovado nas pontas dos dedos, que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu github reflete!
+`Aprimoramento e Avanço!` Acredito, e tenho comprovado nas pontas dos dedos, que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu github reflete!
 
 ---
 
-📁 **Organização do Repositório**
+### 📁 Organização dos Repositórios
 
-Meu GitHub está organizado em **04 ÁREAS** [1 Base e 3 Principais], refletindo meu foco em aprendizado contínuo, evolução técnica e curiosidade sobre tendências do mercado:
+Meu GitHub está estruturado em áreas que refletem minha evolução técnica, minha dedicação ao estudo e minha curiosidade pelas tendências do mercado. 
 
-00. 🔧 Projetos Base => 
-Desenvolvimento em HTML, CSS, Javascript e Python com foco em:
-
-Base de aprendizado e absorção de conhecimento. Mesclando teoria com prática
-
-Otimização de desempenho
-
-Código bruto e básicos para fins de aprendizado
-
-Boas práticas de desenvolvimento
+Com isso: 
+* `Consolidar` conhecimento adquirido;
+* `Documentar` evolução técnica e;
+* `Compartilhar` aprendizados com a comunidade.
 
 
-1. 🔧 Projetos Avançados => 
-Desenvolvimento de interfaces complexas e interativas, com foco em:
+---
+#### 00.🏗️ Foundations: Base de Conhecimento
+> **`Construindo a base. Projetos simples, mas sólidos.`**
 
-Componentização e reutilização de código
+Este repositório é o ponto de partida, onde a teoria se encontra com a prática. Contém projetos essenciais para o aprendizado e a absorção de conceitos fundamentais em **HTML**, **CSS**, e **JavaScript**, com foco em estruturação, acessibilidade e performance. É a base sólida para a construção de soluções robustas.
 
-Otimização de desempenho
+#### 0.1 ⚙️ Labs: Projetos Aprimorados
+> **`Do estático ao interativo. A lógica entra em cena.`**
 
-Experiência do usuário (UX) e acessibilidade
+Dedicado a projetos que aprofundam o conhecimento, explorando lógica complexa e interações dinâmicas. Aqui, aprimoro minhas habilidades com **JavaScript** e **Python**, focando em otimização de código, padrões de design e refatoração para garantir legibilidade e escalabilidade.
 
-Boas práticas e arquiteturas modernas de front-end
+#### 0.2 🔥 Hype & Trends: Explorando o Mercado
+> **`Sempre aprendendo. Sempre evoluindo.`**
 
-2. 🚀 Projetos Aprimorados => 
-Aprofundamento de projetos que vão além do básico, explorando:
+Criado para a exploração de projetos populares e tendências do ecossistema de desenvolvimento. Neste espaço, coloco em prática tecnologias e frameworks atuais para reforçar meu aprendizado e estimular a criatividade, mantendo-me sempre atualizado com o que o mercado está buscando.
 
-Técnicas de performance e boas práticas de manutenção
 
-Padrões de design e escalabilidade
+#### 0.3 📚 Estudos & Imersões — Aprendizado Contínuo
+> **`Estudar, praticar, evoluir.`** A jornada nunca para.”
 
-Refatorações com foco em legibilidade e eficiência
+Repositório dedicado a estudos diversos: <i>bootcamps e maratonas de código, desafios e imersões técnicas, teste de novas tecnologias, anotações e resumos técnicos, desafios de lógia e algoritmos</i>
 
-3. 🔥 Projetos da Hype => 
-Construção de projetos populares e tendências atuais para:
 
-Explorar ferramentas modernas do ecossistema Front-end
+#### 04. 🔐 Projetos Privados & Pessoais
+> **`“Aplicações reais. Soluções sob medida.”`**
 
-Reforçar conhecimentos através da prática
+Repositório reservado para projetos particulares, ideias em desenvolvimento e aplicações com dados sensíveis.
 
-Estimular a criatividade e a experimentação
+Com o foco: 
+* `Aplicar conhecimentos` em contextos reais;
+* `Desenvolver soluções` sob demanda e;
+* `Testar ideias` com potencial de produto
 
-🛠️ **Tecnologias**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
+✨ Sempre aprendendo. Sempre evoluindo. 📌 GitHub como espelho da minha jornada: da base sólida à inovação constante.
+
+
 
 ---
 
-📈 **GitHub Stats**
+### 📈 GitHub Stats
 
 <p align="left">
   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=israelassis&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
@@ -101,7 +97,7 @@ Estimular a criatividade e a experimentação
 
 ---
 
-🤝 **Vamos nos conectar**
+### 🤝 Vamos nos conectar
 
 <a href="https://linkedin.com/in/israelassis" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
@@ -112,7 +108,6 @@ Estimular a criatividade e a experimentação
 
 ---
 
-✨ *Sempre aprendendo. Sempre evoluindo.*  
-
-![Snake animation](https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  <img src="https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
