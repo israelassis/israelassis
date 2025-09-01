@@ -22,10 +22,8 @@
 
 ### 💻 Sobre mim
 
-Sou um aspirante a Desenvolvedor Web com experiência prévia de +7 anos em logística — um período em que assumi responsabilidades estratégicas e reduzi perdas operacionais em até 90%. Essa vivência aguçou minha capacidade analítica e minha busca constante por soluções eficientes. Hoje, direciono essa mesma paixão pela melhoria contínua para o desenvolvimento Front-end.
-
-Atualmente, estou focado em fortalecer minhas habilidades em **HTML5**, **CSS3** e **JavaScript**, com projetos que priorizam desempenho, acessibilidade e experiência do usuário. Estou comprometido com a evolução constante e acredito que o trabalho em equipe, aliado a uma comunicação clara, é a chave para criar produtos incríveis.
-
+Iniciante em desenvolvimento web com mentalidade DevOps.
+Explorando HTML, CSS, JS com foco em segurança, performance e boas práticas.
 ---
 
 ### 🎯 Filosofia
