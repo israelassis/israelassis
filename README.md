@@ -22,16 +22,15 @@
 
 ### 💻 Sobre mim
 
-Iniciante em desenvolvimento web com mentalidade DevOps.
-Explorando HTML, CSS, JS com foco em segurança, performance e boas práticas.
----
+<p> Iniciante em desenvolvimento web com mentalidade DevOps.
+Explorando HTML, CSS, JS com foco em segurança, performance e boas práticas.</p>
+
 
 ### 🎯 Filosofia
 
 **`Aprimoramento e Avanço!`**  
 Acredito — e tenho comprovado nas pontas dos dedos — que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu GitHub reflete!
 
----
 
 ### 📁 Organização dos Repositórios
 
@@ -41,6 +40,7 @@ Com isso:
 - `Consolidar` conhecimento adquirido  
 - `Documentar` evolução técnica  
 - `Compartilhar` aprendizados com a comunidade  
+
 
 ---
 
