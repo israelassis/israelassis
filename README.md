@@ -2,7 +2,7 @@
 
   <h1><sup>🎶</sup>Rock<sup>&</sup>roll e amizade <p>é o que a gente tem de sobra!</h1></p>
 
-  <p>Desenvolvedor | Futuro Analista | Aprendizado Contínuo</p>
+  <p>Desenvolvedor Web | Futuro Analista | Aprendizado Contínuo</p>
 
   <p>
     <img src="https://img.shields.io/badge/DevOps-0078D7?style=flat&logo=azure-devops&logoColor=purple" alt="DevOps"/>
