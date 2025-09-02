@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá, sou o Israel 👋</h1>
+  <h1><sup>🎶</sup>Rock<sup>&</sup>roll e amizade <p>é o que a gente tem de sobra!</h1></p>
 
   <p>Desenvolvedor | Futuro Analista | Aprendizado Contínuo</p>
 
