@@ -25,7 +25,7 @@
 
 ### 💻 Sobre mim
 
-<p> Iniciante em desenvolvimento web com mentalidade DevOps.
+<p> Iniciante em Desenvolvimento Web, aprimorando a mentalidade DevOps.
 Explorando HTML, CSS, JS com foco em segurança, performance e boas práticas.</p>
 
 
