@@ -1,93 +1,68 @@
 <div align="center">
 
-  <h1><sup>🎶</sup>Rock<sup>&</sup>roll e amizade <p>é o que a gente tem de sobra!</h1></p>
+  <h1>⚙️ DevOps Journey</h1>
+  <p>Desenvolvedor em formação | Aspirante a DevOps → Futuro DevSecOps</p>
 
-  <p>Desenvolvedor Web | Futuro Analista | Aprendizado Contínuo</p>
-
-  <p>
-    <img src="https://img.shields.io/badge/DevOps-0078D7?style=flat&logo=azure-devops&logoColor=purple" alt="DevOps"/>
-  
-  <br>  
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Próximos%20Passos-FF69B4?style=flat&logoColor=white"/>&nbsp;&nbsp;&rarr;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DBFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    
-  </p>
+
+  <!-- Tríade Frontend (base de aprendizado) -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <br><br>
+
+  <!-- Tríade DevOps (atual foco) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <br><br>
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 ---
 
 ### 💻 Sobre mim
+Profissional em início de carreira, construindo base sólida em **desenvolvimento** e direcionando foco para **DevOps**.  
+Minha jornada começou com a tríade do frontend (**HTML, CSS, JavaScript**) e hoje está centrada na tríade DevOps (**Python, Docker, Kubernetes**), com ênfase em **segurança, performance e boas práticas**.  
+Objetivo: evoluir para **DevSecOps**, integrando segurança como parte essencial do ciclo de desenvolvimento e operações.
 
-<p> Iniciante em Desenvolvimento Web, aprimorando a mentalidade DevOps.
-Explorando HTML, CSS, JS com foco em segurança, performance e boas práticas.</p>
-
+---
 
 ### 🎯 Filosofia
-
-**`Aprimoramento e Avanço!`**  
-Acredito — e tenho comprovado nas pontas dos dedos — que a verdadeira maestria vem da prática consistente e de uma curiosidade insaciável. É o que meu GitHub reflete!
-
-
-### 📁 Organização dos Repositórios
-
-Meu GitHub está estruturado em áreas que refletem minha evolução técnica, minha dedicação ao estudo e minha curiosidade pelas tendências do mercado.
-
-Com isso:
-- `Consolidar` conhecimento adquirido  
-- `Documentar` evolução técnica  
-- `Compartilhar` aprendizados com a comunidade  
-
+**`Aprender. Automatizar. Proteger.`**  
+Acredito que evolução contínua vem da prática disciplinada e da busca por excelência técnica.  
+Meu GitHub reflete essa jornada: da base em desenvolvimento até a consolidação em DevOps e segurança.
 
 ---
 
-#### 01. 🧱 Projetos Iniciais — Interfaces Estáticas  
-> 🏗️ *Foundations: Base de Conhecimento*  
-> *Construindo a base. Projetos simples, mas sólidos.*
-
-Repositório voltado para o desenvolvimento de aplicações estáticas, com foco em estruturação visual e boas práticas de HTML e CSS.
-
-**Exemplos de projetos:**
-- ✅ To Do List básica  
-- 🧮 Calculadora simples  
-- 📝 Formulários estilizados  
-- 🎨 Landing pages responsivas  
+### 📁 Estrutura dos Repositórios
+- **Fundamentos** → Projetos iniciais em HTML, CSS e JS  
+- **Interatividade** → Lógica e automação com JavaScript e Python  
+- **DevOps Labs** → Experimentos com Docker, Kubernetes e CI/CD  
+- **Estudos & Bootcamps** → Documentação de aprendizado e desafios técnicos  
+- **Projetos Pessoais** → Protótipos e soluções aplicadas em cenários reais  
 
 ---
 
-#### 02. ⚙️ Projetos Aprimorados — Lógica e Interatividade  
-> 🧪 *Labs: Projetos Aprimorados*  
-> *Do estático ao interativo. A lógica entra em cena.*
-
-Projetos que aprofundam o conhecimento, explorando lógica complexa e interações dinâmicas. Aqui, aprimoro minhas habilidades com **JavaScript** e **Python**, focando em otimização de código, padrões de design e refatoração.
-
----
-
-#### 03. 🔥 Projetos Hype — Tendências e Criatividade  
-> 🚀 *Hype & Trends: Explorando o Mercado*  
-> *Sempre aprendendo. Sempre evoluindo.*
-
-Exploração de projetos populares e tendências do ecossistema de desenvolvimento. Coloco em prática tecnologias e frameworks atuais para reforçar meu aprendizado e estimular a criatividade.
+### 🤝 Conexões
+<br>
+<a href="https://linkedin.com/in/israelassis" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin"/>
+</a>
+<a href="mailto:assis.phn@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail"/>
+</a>
 
 ---
 
-#### 04. 📚 Estudos & Imersões — Aprendizado Contínuo  
-> 📘 *Estudar, praticar, evoluir. A jornada nunca para.*
-
-Repositório dedicado a estudos diversos:
-- 🚀 Bootcamps e maratonas de código  
-- 🧪 Testes de novas tecnologias  
-- 📘 Anotações e resumos técnicos  
-- 🧩 Desafios de lógica e algoritmos  
+<div align="center">
+  <img src="https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
 
 ---
 
