@@ -49,54 +49,6 @@ Meu GitHub reflete essa jornada: da base em desenvolvimento até a consolidaçã
 
 ---
 
-### 🤝 Conexões
-<br>
-<a href="https://linkedin.com/in/israelassis" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin"/>
-</a>
-<a href="mailto:assis.phn@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail"/>
-</a>
-
----
-
-<div align="center">
-  <img src="https://github.com/israelassis/israelassis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-
-#### 05. 🔐 Projetos Privados & Pessoais  
-> 🧠 *Aplicações reais. Soluções sob medida.*
-
-Repositório privado destinado a projetos pessoais, ideias em fase de rascunho e testes de novas ferramentas.
-
-**Conteúdos típicos:**
-- 🧾 Ferramentas internas de produtividade  
-- 🗂️ Projetos com dados confidenciais  
-- 🧠 Protótipos e MVPs pessoais  
-
-**Foco:**
-- `Aplicar conhecimentos` em contextos reais  
-- `Desenvolver soluções` sob demanda  
-- `Testar ideias` com potencial de produto  
-
----
-
-✨ *Sempre aprendendo. Sempre evoluindo.*  
-📌 *GitHub como espelho da minha jornada: da base sólida à inovação constante.*
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=israelassis&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
-  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelassis&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</p>
-
----
-
 ### 🤝 Vamos nos conectar
 
 <a href="https://linkedin.com/in/israelassis" target="_blank">
