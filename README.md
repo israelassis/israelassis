@@ -1,43 +1,39 @@
 <div align="center">
 
-  <h1>⚙️ DevOps Journey</h1>
-  <p>Desenvolvedor em formação | Aspirante a DevOps → Futuro DevSecOps</p>
+ <h1 align="center">⚙️ Backend | Python • Cloud • Security</h1>
 
-  <br>
-
-  <!-- Tríade Frontend (base de aprendizado) -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <br><br>
-
-  <!-- Tríade DevOps (atual foco) -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-  <br><br>
-
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
+<p align="center">
+Transição estratégica de Logística → Tecnologia.<br>
+Construindo sistemas robustos, automatizações inteligentes e infraestrutura resiliente.
+</p>
 </div>
 
 ---
 
-### 💻 Sobre mim
-Profissional em início de carreira, construindo base sólida em **desenvolvimento** e direcionando foco para **DevOps**.  
-Minha jornada começou com a tríade do frontend (**HTML, CSS, JavaScript**) e hoje está centrada na tríade DevOps (**Python, Docker, Kubernetes**), com ênfase em **segurança, performance e boas práticas**.  
-Objetivo: evoluir para **DevSecOps**, integrando segurança como parte essencial do ciclo de desenvolvimento e operações.
+## 💻 Sobre mim
 
+Sou profissional em transição de carreira da área de Logística para Tecnologia,
+com foco em desenvolvimento backend utilizando Python.
+
+Minha experiência anterior me deu visão sistêmica, pensamento estruturado
+e obsessão por eficiência — hoje aplicados na criação de:
+
+• APIs bem estruturadas  
+• Automatizações inteligentes  
+• Sistemas confiáveis e escaláveis  
+• Ambientes containerizados e preparados para Cloud  
+
+Interesses atuais:
+Backend | DevOps | Cloud Computing | Cybersecurity | DevSecOps
 ---
 
-### 🎯 Filosofia
-**`Aprender. Automatizar. Proteger.`**  
-Acredito que evolução contínua vem da prática disciplinada e da busca por excelência técnica.  
-Meu GitHub reflete essa jornada: da base em desenvolvimento até a consolidação em DevOps e segurança.
+## 🎯 Mentalidade
 
+Automatizar o que é repetitivo.
+Estruturar o que é caótico.
+Proteger o que é crítico.
+
+Código limpo. Processos claros. Segurança desde o início.
 ---
 
 ### 📁 Estrutura dos Repositórios
