@@ -47,9 +47,6 @@ Minha trajetória no setor operacional me deu uma visão sistêmica e orientada 
 <a href="https://linkedin.com/in/israelassis" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="mailto:assis.phn@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="E-mail"/>
-</a>
 
 ---
 
